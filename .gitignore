@@ -1,0 +1,9 @@
+node_modules/
+.env
+*.log
+activation-codes-private.txt
+
+# Local backup files
+*.bak
+*.backup-*
+*.before-*
